@@ -1,5 +1,4 @@
 # GeekWrite
-# GeekWrite
 A web-based project which allow users to write any piece of writings like blogs, stories, articles, etc. It uses Google OAuth(for authentication).
 
 Language Used: HTML/CSS, JavaScript, NodeJs.
